@@ -1,0 +1,1 @@
+L\* curve used to treat a negative raw with an applied negative DCP.

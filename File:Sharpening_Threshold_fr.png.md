@@ -1,0 +1,1 @@
+Screenshot of curve used to set sharpening threshold

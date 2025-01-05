@@ -1,0 +1,1 @@
+Zoom crop area to fit icon. Not a Gtk-Icon.

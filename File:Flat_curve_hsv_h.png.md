@@ -1,0 +1,1 @@
+Screenshot Flat Curve HSV Equalizer H Whole flat curve panel

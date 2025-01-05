@@ -1,0 +1,1 @@
+Example of a perfectly executed color target shot in daylight.

@@ -1,0 +1,1 @@
+1.  REDIRECT [Bit Depth](Bit_Depth "wikilink")

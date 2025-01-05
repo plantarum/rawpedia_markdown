@@ -1,0 +1,1 @@
+MSYS2 icons on desktop

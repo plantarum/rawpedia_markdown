@@ -1,0 +1,1 @@
+Image Editor showing the preview, crop mask and lockable color pickers

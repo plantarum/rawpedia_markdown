@@ -1,0 +1,1 @@
+Screenshot Defringe Hue curve

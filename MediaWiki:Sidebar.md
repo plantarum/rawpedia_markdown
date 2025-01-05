@@ -1,0 +1,6 @@
+- navigation
+  - mainpage\|mainpage-description
+  - recentchanges-url\|recentchanges
+- SEARCH
+- TOOLBOX
+- LANGUAGES

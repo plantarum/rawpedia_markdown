@@ -1,0 +1,1 @@
+Screenshot showing removal of hot pixels in RawTherapee-4.3.

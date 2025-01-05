@@ -1,0 +1,1 @@
+Screenshot Save Partial Processing Profile window

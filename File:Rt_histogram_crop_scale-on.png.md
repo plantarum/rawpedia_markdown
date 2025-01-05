@@ -1,0 +1,1 @@
+RawTherapee's main histogram with scaling turned on.

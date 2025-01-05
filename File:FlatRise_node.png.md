@@ -1,0 +1,1 @@
+Diagram with a flat rise beginning from a node

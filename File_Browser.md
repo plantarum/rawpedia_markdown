@@ -1,0 +1,79 @@
+![](Rt_setm_fb.png "Rt_setm_fb.png") The File Browser tab is where you
+review your photos, select photos for editing, or perform batch-editing
+operations. It consists of the following parts:
+
+- The left panel
+  - The "Places" panel on the top links to your home folder, USB card
+    readers, the system's default "photos" folder, or custom folders.
+  - Below this is a standard tree-type file browser that you can use to
+    navigate to folders containing your photos. RawTherapee does not
+    complicate things by requiring you to import photos into databases
+    as some other software do.
+- The right panel
+  - The "Develop" tab allows you to apply tool settings to the selected
+    image or images. This allows you to quickly enable some tool in many
+    photos at once.
+  - The "Inspect" tab shows a preview at a fixed scale of 100% of the
+    image your mouse cursor is hovering over, which is either the
+    largest JPEG image embedded in the raw file, or the image itself
+    when hovering over non-raw images.
+  - The "Filter" tab lets you show only photos which match the
+    parameters you specify.
+  - The "Fast Export" tab lets you quickly process the selected images
+    by bypassing certain tools even if they are enabled in the
+    processing profiles of those images, so that you can get a quick
+    preview of the raw files for example to delete the shots which are
+    blurry or out of focus.
+- The central panel shows thumbnails of the folder currently selected.
+
+You can hide the individual panels using the "Show/Hide the left panel
+![<File:Panel-to-left.png>](Panel-to-left.png "File:Panel-to-left.png")"
+and "Show/Hide the right panel
+![<File:Panel-to-right.png>](Panel-to-right.png "File:Panel-to-right.png")"
+buttons - see the [Keyboard Shortcuts](Keyboard_Shortcuts "wikilink")
+page.
+
+When you open a folder, RawTherapee will generate thumbnails of the
+photos in that folder in the central panel. The first time you open a
+folder full of raw photo files (we'll refer to folders full of photos as
+"albums"), RawTherapee will read each file and create a thumbnail based
+on the embedded JPEG image (every raw photo has an embedded JPEG image,
+sometimes even a few of various sizes). This can take some time on
+larger albums, but it only happens the first time you open an album. All
+subsequent times you go to a previously opened folder, RawTherapee will
+read the thumbnails from its cache if they exist, and this will be much
+faster than the first time you opened that folder.
+
+The JPEG image embedded in each raw photo is identical to the
+out-of-camera JPEG image you would get if you shot in JPEG mode (or in
+"RAW+JPEG" mode). This JPEG is not representative of the actual raw data
+in that photo, because your camera applies all kinds of tweaks to the
+JPEG image, such as increasing the exposure a bit, increasing
+saturation, contrast, sharpening, etc.
+
+After you start editing a photo, its thumbnail in the *File Browser* tab
+is replaced with what you see in the preview in the *Editor* tab, and
+every tweak you make is reflected in the thumbnail. The thumbnails are
+stored in the cache for quick future access. If you want to revert to
+the embedded JPEG image as the thumbnail, then right-click on the
+thumbnail (or selection of thumbnails) and select "*Processing Profile
+Operations \> Clear*".
+
+Use the zoom icons in the File Browser's top toolbar to make the
+thumbnails smaller or larger. Each thumbnail uses some memory (RAM), so
+it is advisable not to set the thumbnail size too high ("*Preferences \>
+File Browser \> Maximal Thumbnail Height*").
+
+You can filter the visible photos by using the buttons in the *File
+Browser's* or
+*[Filmstrip](The_Image_Editor_Tab#The_Filmstrip "wikilink")'s* top
+toolbar, as well as by using the "*Find*" box or the "*Filter*" tab.
+Possible uses:
+
+- Show only unedited photos,
+- Show only photos bracketed +2EV,
+- Show only photos ranked as 5 star,
+- Show only photos with a specific ISO range,
+- Show only photos with a NEF extension.
+
+## Batch Adjustments - Sync

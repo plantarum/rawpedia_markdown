@@ -1,0 +1,1 @@
+Indicates the toggle and the selector part of the curve button.

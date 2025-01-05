@@ -1,0 +1,1 @@
+The parametric curve bar in version 5 design.

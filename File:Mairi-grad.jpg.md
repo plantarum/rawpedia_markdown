@@ -1,0 +1,3 @@
+## Summary
+
+Graduated filter

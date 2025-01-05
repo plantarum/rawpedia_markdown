@@ -1,0 +1,1 @@
+Screenshot of the "Dynamic profile rules" editor

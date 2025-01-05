@@ -1,0 +1,1 @@
+1.  REDIRECT [Wavelet](Wavelet "wikilink")

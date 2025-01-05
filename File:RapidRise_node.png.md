@@ -1,0 +1,1 @@
+Diagram with a rapid rise beginning from a node

@@ -1,0 +1,1 @@
+Screen shot of Tone Curve editor showing type drop down box.

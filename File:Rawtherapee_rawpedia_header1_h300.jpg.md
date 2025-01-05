@@ -1,0 +1,1 @@
+RawPedia header image 1 showing RawTherapee 4.0.12.113. 300px high.

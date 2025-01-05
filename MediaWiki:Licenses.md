@@ -1,0 +1,5 @@
+- subst:license 1\|license 2\|License text
+- Header 1:
+  - cc-by-sa-2.5\|Attribution ShareAlike 2.5
+- Header 2:
+  - test\|foo

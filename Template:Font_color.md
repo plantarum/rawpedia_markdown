@@ -1,0 +1,1 @@
+1.  REDIRECT [Template:Color](Template:Color "wikilink")

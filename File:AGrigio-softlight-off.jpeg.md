@@ -1,0 +1,1 @@
+Example image with Soft Light tool turned off
